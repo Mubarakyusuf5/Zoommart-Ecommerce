@@ -16,5 +16,4 @@ router.put("/updateCategory", updateCategory)
 router.delete("/deleteCategory", deleteCategory)
 
 
-// module.exports = {router}
 module.exports = router
